@@ -1,0 +1,100 @@
+# QA Testing Toolkit
+
+A collection of practical QA testing activities performed using industry-standard testing tools including Apache JMeter and OWASP ZAP.
+
+## 📌 Project Overview
+
+This repository demonstrates hands-on experience in:
+
+* Performance Testing using Apache JMeter
+* Security Testing using OWASP ZAP
+* Test Data Analysis
+* Test Report Generation
+* Quality Assurance Best Practices
+
+## 🛠️ Tools Used
+
+* Apache JMeter
+* OWASP ZAP
+* Selenium WebDriver
+* Java
+* CSV Reports
+* HTML Reports
+
+## 🚀 Performance Testing
+
+Performance testing was conducted using Apache JMeter to evaluate website responsiveness and stability.
+
+### Activities Performed
+
+* Created and executed JMeter test plans
+* Generated HTML dashboard reports
+* Analyzed response times and throughput
+* Evaluated APDEX scores
+* Reviewed request success rates
+
+### Artifacts
+
+* JMeter Test Plans (.jmx)
+* CSV Result Files
+* HTML Dashboard Reports
+* Test Execution Screenshots
+
+## 🔒 Security Testing
+
+Security testing was performed using OWASP ZAP to identify potential vulnerabilities in web applications.
+
+### Activities Performed
+
+* Automated vulnerability scanning
+* Security risk assessment
+* Alert analysis and reporting
+* Vulnerability identification
+
+### Artifacts
+
+* OWASP ZAP Reports
+* Security Scan Results
+* Vulnerability Summaries
+* Test Screenshots
+
+## 📊 Key Learning Outcomes
+
+* Understanding of Performance Testing concepts
+* Hands-on experience with Apache JMeter
+* Understanding of Security Testing fundamentals
+* Practical usage of OWASP ZAP
+* Experience analyzing test reports and metrics
+* Exposure to QA testing workflows
+
+## 📁 Repository Contents
+
+```text
+Performance-Testing/
+├── Test Plans
+├── CSV Reports
+├── Dashboard Reports
+└── Screenshots
+
+Security-Testing/
+├── ZAP Reports
+└── Screenshots
+```
+
+## 📸 Sample Reports
+
+This repository includes:
+
+* Apache JMeter Dashboard Reports
+* Performance Test Result Files
+* OWASP ZAP Security Scan Reports
+* Testing Evidence Screenshots
+
+## 👨‍💻 Author
+
+**Senithi Premaratne**
+
+Computer Science Undergraduate
+Aspiring Quality Assurance Engineer
+
+GitHub: https://github.com/senithipremaratne
