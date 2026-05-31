@@ -34,7 +34,7 @@ University of Westminster (UK)
 - Manual Testing  
 - Test Case Design & Planning  
 - Bug Reporting  
-- Jira (Issue Tracking)  
+- Azure DevOps(Bug Reporting)
 - Postman (API Testing)  
 - JMeter  
 
